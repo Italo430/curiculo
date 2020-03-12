@@ -1,0 +1,46 @@
+h1 {
+ font-family:Trebuchet MS, sans-serif;
+ font-size: 40px;
+ color:black;
+}
+
+.textoCabecalho1 {
+ font-family:Trebuchet MS, sans-serif;
+ font-size: 20px;
+ color:black;
+}
+
+header{
+
+	padding: 100px;
+	border-style: solid;
+	border-color: black;
+	border-width: 8px;
+	background-color: white; 
+}
+
+.quadLeft{
+	 float: left;
+	 border-style: solid;
+	 border-color: black;
+	 border-width: 8px; 
+	 padding: 100px;
+	 padding-right: 19%;
+	 padding-bottom: 20%;
+	 font-family:Trebuchet MS, sans-serif;
+	 background-color: white;
+
+}
+
+.quadRigth{
+	 float: right;
+	 border-style: solid;
+	 border-color: black;
+	 border-width: 8px; 
+	 padding: 100px;
+	 padding-left: 23%;
+	 padding-bottom: 385px;
+	 font-family:Trebuchet MS, sans-serif;
+	 background-color: white;
+
+}
